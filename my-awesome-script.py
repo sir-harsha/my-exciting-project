@@ -1,2 +1,2 @@
 print('Japnese!')
-#This is an awsm script
+#This is an awsm scriptt
